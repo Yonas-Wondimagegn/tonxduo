@@ -16,7 +16,6 @@ def banner():
         \/           \/      \_/     \/        \/ 
                                                                 
     Auto Claim Bot For TONXDUO 
-    Author  : A13X                                                                                                                                                                        
 """
     print(f"\033[92m{banner}")
 
